@@ -1,0 +1,8 @@
+# Discord Bot Auth
+discord_token=""
+
+# Database Auth Info
+db_ip=""
+db_name=""
+db_user=""
+db_pass=""
